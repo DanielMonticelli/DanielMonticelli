@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>API RESTful</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Escolha uma Operação</h1>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item"><a class="btn btn-primary w-100" href="{{ url_for('get_options') }}">GET</a></li>
+            <li class="list-group-item"><a class="btn btn-success w-100" href="{{ url_for('post_options') }}">POST</a></li>
+            <li class="list-group-item"><a class="btn btn-warning w-100" href="{{ url_for('put_options') }}">PUT</a></li>
+            <li class="list-group-item"><a class="btn btn-danger w-100" href="{{ url_for('delete_options') }}">DELETE</a></li>
+            <li class="list-group-item"><a class="btn btn-secondary w-100" href="{{ url_for('graph') }}">Visualizar Gráfico</a></li>
+        </ul>
+    </div>
+</body>
+</html>
