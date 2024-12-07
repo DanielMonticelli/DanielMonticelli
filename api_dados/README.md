@@ -9,3 +9,14 @@ Este projeto é uma API RESTful que permite realizar operações CRUD (Create, R
 - **PUT**: Atualizar um registro existente.
 - **DELETE**: Remover um registro.
 - **Visualização Gráfica**: Visualizar gráficos baseados nos dados da tabela.
+
+## Instalação
+
+- **[Instale o Python](https://www.python.org/downloads/)**
+    -- Projeto feito na versão 3.12.2
+- **[Instale o Pip](https://pip.pypa.io/en/stable/installation/)**
+    -- Projeto feito na versão 24.0
+- **Instale os packages**:
+    ```bash
+   pip install -r requirements.txt
+   ```
