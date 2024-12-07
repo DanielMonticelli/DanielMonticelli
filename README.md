@@ -11,6 +11,7 @@ Olá mundo! Bem-vindo ao meu repositório do GitHub! Aqui você encontrará proj
    ```
 2. **Navegue para a pasta do projeto desejado.**
 3. **Siga as instruções no README de cada projeto para configurá-lo e executá-lo.**
+4. **Alguns projetos possuem tutorial no [LinkedIn](https://www.linkedin.com/in/daniel-brum-monticelli/).**
 
 ---
 
