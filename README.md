@@ -1,12 +1,17 @@
-- Olá, Mundo! ✌
-- Me chamo Daniel Monticelli 🧑
-- Curto programação 👨‍💻
-- -------------------------------
-- Hello World! ✌
-- My name is Daniel Monticelli 🧑
-- I like programming 👨‍💻
+# **Meus Projetos de Programação**
 
-<!---
-DanielMonticelli/DanielMonticelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá mundo! Bem-vindo ao meu repositório do GitHub! Aqui você encontrará projetos que desenvolvi em diferentes áreas da programação, criados para aprendizado.
+
+---
+
+## **Como Usar os Projetos**
+1. **Clone este repositório:**
+   ```bash
+   git clone https://github.com/DanielMonticelli/DanielMonticelli.git
+   ```
+2. **Navegue para a pasta do projeto desejado.**
+3. **Siga as instruções no README de cada projeto para configurá-lo e executá-lo.**
+
+---
+
+## **Obrigado por visitar! ⭐ Não esqueça de dar uma estrela se achar interessante. 😊**
