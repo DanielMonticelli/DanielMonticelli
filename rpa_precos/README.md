@@ -1,4 +1,4 @@
-# Projeto de ETL
+# Projeto de RPA para preços
 
 Este projeto é uma RPA simples que permite coletar preços de produtos de uma página web!
 
